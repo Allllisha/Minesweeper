@@ -1,0 +1,20 @@
+{
+  "name": "Optional-02-Minesweeper",
+  "version": "1.0.0",
+  "description": "我们想在浏览器写一个经典的游戏[扫雷Minesweeper](https://www.google.com/search?tbm=isch&q=minesweeper+windows) (需要VPN 🛡 )。",
+  "main": "webpack.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
